@@ -1,0 +1,17 @@
+0l0: 
+
+bl1a:Hi, what's up, what can I get you?
+bl1b:pickle juice, beer or wet martini?
+
+bl2a:A 
+bl2b: is coming right up!
+bl2c:Excuse me?
+
+bl3a:Oops, we've run out of that! But if you bring a pickle I'll make one for you.
+
+bl4a:Oh, I see that you have a pickle. That means I can make you some pickle juice!
+bl4b:A fresh pickle juice is coming right up!
+
+0l5a:You don't drink alcohol, so you pocket the beer.
+
+bq1: I'll have: 

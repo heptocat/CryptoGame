@@ -1,0 +1,6 @@
+0l0:
+0l1a:Oh, look! A loading machine! You should probably make sure you've saved your current game before you use it though.
+0l1b:Do you want to load a game?
+0l2:What's your name?
+0l3:Okey-dokey, all done!
+0l4:Oops! There are no saved games with that name. 

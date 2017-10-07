@@ -1,0 +1,6 @@
+0l0:
+0l1a:This looks like a saving machine. Sweet! Do you want to save your game?
+0l1b:Name: 
+0l1q:(yes / no / change name):
+0l2:Success! Your game was saved.
+0l3:Enter a new name

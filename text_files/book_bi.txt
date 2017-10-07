@@ -1,0 +1,12 @@
+0l0:
+0l1a:BI - ENGLISH DICTIONARY: The best of the basics
+0l1b:This is a collection of the most useful words for your visit in Bi-Town. Enjoy your stay!
+
+0l1d:blububbebir               - blubber
+0l1e:crabiyobin                - crayon
+0l1f:Flibibbebirtibigibibbebit - Flibbertigibbet
+0l1g:webit                     - wet
+
+0l2a:A HISTORY OF BI by J.Curlynose
+0l2b:Bi-language was originally a German dialect. For real. Weird, eh. Anyway, the German poet Joachim Ringelnatz made the language famous in a poem... or, well... kind of famous.
+0l2c:Bi-Town is a charming village said poet visits for inspiration - or a glass of beer.

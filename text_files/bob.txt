@@ -1,0 +1,11 @@
+Bl1a:Hi! My name is Bin… Just call me B. As you can hear I have a speech impediment. But you can speak normally with me, don't worry. I hope that's not a problem. Can you understand me?
+0l1q: (yes / excuse me?): 
+0l2no:If you have difficulties understanding this guy with a speech impediment, try checking out the library.
+Bl2yes:Great! You seem like a bright person. What's your name?
+0l2q: My name is 
+Bl3a:Nice to meet you 
+Bl3b:You don't know how glad I am to finally meet a normal speaking person again. As you can probably tell I'm not from Bi-Town, I was just shut away here because nobody could understand me.
+Bl4a:But when I speak Bi-language nobody can understand me either! So nobody will help me get the ingredients for the antidote I need to speak normally again.
+0l4q: I say! I could lend you a hand, if you like.
+Bl5:You would? Now that would be amazing! Of course I'll find a way to recompense.
+Bl6:Hey, it's you again. Do you have the antidote? Maybe you can find some information in the library.

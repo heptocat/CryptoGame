@@ -1,0 +1,5 @@
+0unpicked:What's this? Oh, a pickle!
+0unpicked2:You pocketed the newly picked pickle.
+0q1:Pick it? 
+
+0picked:You see a mysterious plant, but it's already been picked.
