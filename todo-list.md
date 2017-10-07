@@ -26,17 +26,17 @@ Lists things that we are planning to implement.
 	- something from the roman camp
 	- maybe something the german poet can give you?
 
-- write game manual for the library
+### write game manual for the library
 
 
 ## STORY PLOT
 
-###main story line
+### main story line
 
 you have to help bob make the potion.
 steps:	gather ingredients (3?)
 		mix them (mixing machine somewhere? Maybe pickle shed?)
-###subquests
+### subquests
 1.	get some pickle juice
 	by pickung pickle etc.
 2.	Get [some ingredient] from german poet by giving him beer
