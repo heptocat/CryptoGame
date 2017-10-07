@@ -2,16 +2,16 @@ Changed by: Matilda
 changelog 2017-09-19 12:22
 Status: unseen
 
-CHANGED:
+## CHANGED:
 	- bitown.py
 	- bar_bg.ogg
 	
 	
 
-ADDED:
+## ADDED:
 	- sound_files: bitown_bg.ogg
 
-DELETED
+## DELETED
 
-COMMENTS
+## COMMENTS
 	
