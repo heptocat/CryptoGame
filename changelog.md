@@ -1,17 +1,19 @@
 Changed by: Matilda
-changelog 2017-09-19 12:22
+changelog 2017-10-07 11:47
 Status: unseen
 
 ## CHANGED:
-	- bitown.py
-	- bar_bg.ogg
 	
 	
 
 ## ADDED:
-	- sound_files: bitown_bg.ogg
+	- changelog.md
+	- README.md
+	- todo-list.md
 
-## DELETED
+## DELETED:
+	- changelog.txt
+	- todo-list.txt
 
 ## COMMENTS
 	
